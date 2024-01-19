@@ -29,9 +29,9 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <a href="https://www.iesesteveterradas.cat/">「 Google Us 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 We are a group of multiplatform application development students from Spain</b> 」
     <br>
     <br>
   </samp>
